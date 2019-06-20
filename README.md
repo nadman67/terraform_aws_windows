@@ -9,6 +9,8 @@ Clone repository.
 
 Edit variables.tf file filling in the access key and secret key from AWS. ****DO NOT COMMIT THIS FILE
 
+Create public/private key. Edit main.tf with public key name.
+
 From command line:
 
 terraform init
